@@ -1,5 +1,4 @@
 body {
-    background-color:gainsboro;
     text-align: center;
     color:black
 }
@@ -16,4 +15,13 @@ p {
     color: black;
 }
 
+ul{
+    text-align: center;
+    list-style-type:circle;
+}
+
+ol{
+    text-align: center;
+
+}
 
