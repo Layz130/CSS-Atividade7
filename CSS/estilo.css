@@ -1,17 +1,19 @@
 body {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    background-color:gainsboro;
+    text-align: center;
+    color:black
 }
 
-.container {
+h1, h2, h3, h4, h5, h6 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    padding: 20px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color:black
 }
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+
