@@ -80,6 +80,7 @@ a {
 
 
 #carousel {
+    max-width: 600px;
     width:revert;
     overflow: hidden;
     position: relative;
