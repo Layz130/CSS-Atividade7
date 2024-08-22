@@ -2,7 +2,6 @@ body {
 
     background-color:aliceblue;
     text-align: center;
-    justify-content: center;
     margin: 50px;
     color:black
 }
@@ -85,6 +84,7 @@ a {
     height: 200px;
     overflow: hidden;
     position: relative;
+    justify-content: center;
 }
 
 .carousel-item {
@@ -93,12 +93,16 @@ a {
     height: 100%;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
+    justify-content: center;
+
 }
 
 .carousel-item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    justify-content: center;
+
 }
 
 #img1:target, #img2:target, #img3:target {
@@ -112,6 +116,6 @@ a {
 .navigation a {
     margin: 0 5px;
     text-decoration: none;
-    color: black;
+    color:#0056b3;
     font-size: 18px;
 }
