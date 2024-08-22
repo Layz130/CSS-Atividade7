@@ -1,9 +1,11 @@
 body {
 
+    justify-content: center;
     background-color:#fff;
     text-align: center;
     margin: 50px;
-    color:black
+    color:black;
+
 }
 
 h1 {
@@ -119,6 +121,6 @@ a {
 .navigation a {
     margin: 0 5px;
     text-decoration: none;
-    color: black;
+    color:cadetblue;
     font-size: 18px;
 }
