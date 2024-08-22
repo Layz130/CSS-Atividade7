@@ -80,7 +80,7 @@ a {
 
 
 #carousel {
-    width: auto;
+    width:revert;
     overflow: hidden;
     position: relative;
   }
