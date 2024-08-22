@@ -2,6 +2,7 @@ body {
 
     background-color:aliceblue;
     text-align: center;
+    justify-content: center;
     margin: 50px;
     color:black
 }
